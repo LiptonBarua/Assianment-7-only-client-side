@@ -147,11 +147,14 @@ button {
   justify-content: space-around;
 }
 .card{
-  background-color: rgb(68 8 8 / 68%);
+  background-color:rgba(4, 80, 4, 0.945);
   margin-left: 30px;
   margin-bottom: 20px;
   padding: 15px;
   color: white;
+}
+.card p{
+  font-size: 18px;
 }
 
 
